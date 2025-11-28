@@ -11,11 +11,13 @@
         
       >
       <img src="@/assets/nhow-marseille.jpg" />
-      <div class="p-5 h-1/3 justify-self-center">
+      <div class="p-5 h-1/3 justify-self-center text-white mb-1">
 
-        <img src="@/assets/nhow-spa.jpg" class="h-full" />
+        <img src="@/assets/nhow-spa.jpg" class="h-full ml-2" />
+        Mardi 2 décembre 2025
       </div>
       <img src="@/assets/nhow-chambre.jpg" class="h-full" />
+
       </div>
         
       
